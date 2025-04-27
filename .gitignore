@@ -26,3 +26,5 @@ ENV/
 .DS_Store
 Thumbs.db
 secret.json
+.cursor/
+.venv/
